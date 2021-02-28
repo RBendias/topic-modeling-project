@@ -1,0 +1,7 @@
+member_data.csv
+webpages/
+venv/
+
+*mallet-2.0.8*
+.DS_Store
+.ipynb_checkpoints/*
