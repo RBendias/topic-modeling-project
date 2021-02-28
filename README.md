@@ -1,4 +1,4 @@
-# I&E Study 7.1 Automated Stakeholder Analysis for Hedera
+# Topic Modeling Project - Challenge: 7.1 Automated Stakeholder Analysis for Hedera
 
 I&E challenge Market analysis using IT tools - team 7.1
 
